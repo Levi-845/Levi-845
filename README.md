@@ -4,8 +4,9 @@
 I'm a **Front-End Web Developer** 👀
 
 ### Currently, I'm working on:
-- **Next JS**
 - **JavaScript**
+- **TypeScript**
+- **Python**
 ### Tech Stack:
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="60" height="60" />
