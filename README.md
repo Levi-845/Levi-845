@@ -24,8 +24,6 @@ I'm a **Front-End Web Developer** 👀
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60" />
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Levi-845&layout=compact&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Levi-845&layout=compact&theme=dark&hide_border=false)
 
 ###
