@@ -27,6 +27,10 @@ I'm a **Front-End Web Developer** 👀
 ### 📊 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Levi-845&layout=compact&theme=radical)
 
+### 📊 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Levi-845&layout=compact&theme=dark&hide_border=false)
+
+
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Levi-845&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
