@@ -27,5 +27,5 @@ I'm a **Front-End Web Developer** 👀
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Levi-845&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ###
-<img src="https://raw.githubusercontent.com/z3sh4n/z3sh4n/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/z3sh4n/z3sh4n/output/snake.svg" alt="Snake animation"/>
 
