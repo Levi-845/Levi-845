@@ -3,7 +3,7 @@
 ## 🚀 About Me
 I'm a **Front-End Web Developer** 👀
 
-### Currently, I'm working on :
+### Currently, I'm working on:
 - **JavaScript**
 - **Kotlin**
 - **Python**
