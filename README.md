@@ -4,6 +4,7 @@
 **I'm a Front-End Web Developer** 👀
 
 ### 📚 Currently, I'm working on: 🚀
+- **HTML & CSS**
 - **JavaScript**
 - **Python**
 - **Kotlin**
