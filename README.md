@@ -1,7 +1,7 @@
 # Hi, 👋 I'm Levi
 
 ## 🙋‍♂️ About Me: 
-I'm a **Front-End Web Developer** 👀
+##I'm a **Front-End Web Developer** 👀
 
 ### 📚 Currently, I'm working on: 🚀
 - **JavaScript**
