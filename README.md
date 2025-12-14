@@ -1,12 +1,12 @@
-# Hi 👋, I'm Levi
+# Hi, 👋 I'm Levi
 
 ## 🙋‍♂️ About Me: 
 I'm a **Front-End Web Developer** 👀
 
-### 📚 Currently, 🚀 I'm working on:
+### 📚 Currently, I'm working on: 🚀
 - **JavaScript**
-- **Kotlin**
 - **Python**
+- **Kotlin**
 ### Tech Stack:
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="60" height="60" />
