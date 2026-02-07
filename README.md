@@ -25,6 +25,7 @@
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Levi-845&layout=compact&theme=dark&hide_border=false)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Levi-845)](https://github.com/anuraghazra/github-readme-stats)
 
 ###
 <!-- <img src="https://raw.githubusercontent.com/z3sh4n/z3sh4n/output/snake.svg" alt="Snake animation"/> -->
