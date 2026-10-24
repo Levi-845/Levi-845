@@ -24,7 +24,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60" />
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Levi-845/Levi-845&layout=compact)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Levi-845/Levi-845&layout=compact)  -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Levi-845&layout=compact&theme=dark&hide_border=false)
 ###
 <!-- <img src="https://raw.githubusercontent.com/z3sh4n/z3sh4n/output/snake.svg" alt="Snake animation"/> -->
